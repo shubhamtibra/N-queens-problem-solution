@@ -1,2 +1,2 @@
 # Object-Oriented-Programming-Course
-Code I wrote in Lab
+Code I write in OOP Lab
