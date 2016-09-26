@@ -1,2 +1,2 @@
-# Object-Oriented-Programming-Course
-Code I write in OOP Lab
+# n-Queen problem solution
+Solving the problem using recursive backtracking in Java and Python.
